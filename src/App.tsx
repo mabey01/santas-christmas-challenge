@@ -14,12 +14,7 @@ export function App() {
       <Ground className="absolute bottom-0 left-0 right-0 h-[20vh] bg-white" />
 
       <div className="absolute w-[50vw] h-[75vh] text-neutral-800">
-        <div className="h-full flex justify-center items-center text-center">
-          <div className="max-w-md">
-            Your challenge, should you decide to accept it, is to build a
-            <span className="text-rose-600 font-semibold"> Santa</span>
-          </div>
-        </div>
+        <div className="absolute top-1/2 left-1/2 w-4 h-4 bg-red-600 rounded-full" />
       </div>
 
       <Target />
