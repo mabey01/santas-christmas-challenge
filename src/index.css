@@ -4,6 +4,14 @@
 
 :root {
   --background-color: #1585;
+
+  --skin: #fca;
+  --beard: #eee;
+  --eyes: #630a;
+  --cheeks: #f001;
+  --belt: #111;
+  --belt-buckle: gold;
+  --suit: #a00;
 }
 
 body {
